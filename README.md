@@ -9,7 +9,7 @@ Experience the live version of the website here:
 
 ## 🎥 Preview
 
-![oaicite:19](https://raw.githubusercontent.com/Dileep-kumawat/sidcup-family-golf-website/main/preview-thumbnail.jpg)
+![oaicite:19](https://raw.githubusercontent.com/Dileep-kumawat/sidcup-family-golf-website/main/preview_thumbline.jpg)
 
 Click the image above to watch a short preview of the website in action.
 
