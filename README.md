@@ -5,11 +5,11 @@ A modern, responsive landing page for Sidcup Family Golf, designed with HTML, CS
 ## 🌐 Live Preview
 
 Experience the live version of the website here:
-👉 [Live Demo](https://raw.githubusercontent.com/Dileep-kumawat/sidcup-family-golf-website/main/preview_video.mp4) <!-- Replace '#' with your live site URL if available -->
+👉 [Live Demo](https://raw.githubusercontent.com/Dileep-kumawat/sidcup-family-golf-website/main/assets/preview_video.mp4) <!-- Replace '#' with your live site URL if available -->
 
 ## 🎥 Preview
 
-![oaicite:19](https://raw.githubusercontent.com/Dileep-kumawat/sidcup-family-golf-website/main/preview-thumbline.jpg)
+![oaicite:19](https://raw.githubusercontent.com/Dileep-kumawat/sidcup-family-golf-website/main/assets/preview-thumbnail.jpg)
 
 Click the image above to watch a short preview of the website in action.
 
@@ -42,7 +42,7 @@ sidcup-family-golf-website/
 
 ## 📸 Screenshots
 
-![oaicite:52](https://raw.githubusercontent.com/Dileep-kumawat/sidcup-family-golf-website/main/assets/homepage-screenshot.jpg)
+![oaicite:52](https://raw.githubusercontent.com/Dileep-kumawat/sidcup-family-golf-website/main/assets/preview-thumbnail.jpg)
 
 ## 📥 Getting Started
 
