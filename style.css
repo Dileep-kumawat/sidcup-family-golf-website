@@ -76,7 +76,7 @@ nav h4:hover {
     background-color: #95c11e;
     border-radius: 50%;
     position: fixed;
-    z-index: 99;
+    z-index: 9;
     transition: all linear 0.1s;
 }
 
